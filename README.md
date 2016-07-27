@@ -1,0 +1,1 @@
+A stupid script for using CTRL+ALT+1/2/3/4 to switch between virtual desktops for Windows 10.
